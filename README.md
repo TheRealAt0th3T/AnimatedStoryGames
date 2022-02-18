@@ -1,2 +1,2 @@
 # GIMM110
-GIMM110
+Interactive Programming
